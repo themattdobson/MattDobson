@@ -4,7 +4,7 @@
 
 header {
   @include grid-row;
-  background-color: $light-gray;
+  background-color: white;
 
   nav {
     @include grid-column;
@@ -19,3 +19,50 @@ footer {
     @include grid-column;
   }
 }
+
+
+h1 {font-family: 'Merriweather', serif;
+    font-size: 2em;
+    font-weight: 400;
+    color: #3b3b3b;
+ }
+
+p {font-family: 'Merriweather', serif;
+  font-size: 1em;
+    line-height: 1.8em;
+    text-transform: none;
+    text-decoration: none;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0 0 1em;
+    color: #3b3b3b;
+}
+
+
+.underline { border-bottom: 2px solid #30a0ea !important;
+    background-color: white;
+    text-decoration: none;
+    color: #3b3b3b;
+}
+
+.underline:hover {background-color: #30a0ea;
+        color: #3b3b3b;
+        transition: background .2s ease-in-out;}
+
+
+.outlinebutton  {
+    border: 2px solid #30a0ea !important;
+    color: #3b3b3b;
+    padding: 10px;
+    font-family: "Merriweather Sans" sans-serif;
+    font-size: .75em;
+    line-height: 1.2em;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: .1em;
+    font-weight: 800;
+}
+
+.outlinebutton:hover {background-color: #30a0ea;
+        color: #3b3b3b;
+        transition: background .2s ease-in-out;}
