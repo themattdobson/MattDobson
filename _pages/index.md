@@ -15,7 +15,7 @@ title: About
 </div>
 
 <section class="aboutblock" class="columns small-12 medium-9 large-7">
-<p class="intro">I’m proud to be part of the team at the <a class="underline" href="http://www.humana.io/">Digital Experience Center</a>. We are a technology incubator shaping 21st-Century healthcare and transforming Humana into a human-centered, tech-driven company. In my free time I help organize Louisville’s <a class="underline" href="https://www.meetup.com/ixdalouisville/">IxDA chapter</a> and in 2016 was part of the team that organized the <a class="underline" href="http://2016.midwestuxconference.com/">Midwest UX Conference</a> in Louisville.</p>
+<p class="intro">I’m proud to be part of the team at the <a class="underline" href="http://www.humana.io/">Digital Experience Center</a>. We are a technology incubator shaping 21st-Century healthcare and transforming Humana into a human-centered, tech-driven company. In my free time I help organize Louisville’s <a class="underline" href="https://www.meetup.com/ixdalouisville/">IxDA chapter</a> and in 2016 was part of the team that organized the <a class="underline" href="http://2016.midwestuxconference.com/">Midwest UX Conference</a>.</p>
 
 <p class="intro">Previously I was an art director at <a class="underline" href="https://www.poweragency.com/">Power</a>, published a <a class="underline" href="http://www.thelouisvillepaper.com/">magazine</a>, and co-produced a late-night variety show at a <a class="underline" href="https://actorstheatre.org/">Tony Award winning theatre</a>.</p>
 
