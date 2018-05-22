@@ -6,6 +6,9 @@ body {
 }
 
 
+
+
+
 header {
   @include grid-row;
   // @include grid-column;
@@ -18,7 +21,7 @@ header {
     line-height: 1;
     text-decoration: none;
     display: block;
-    padding: 0.7rem 1rem;
+    padding: 0.7rem 1rem!important;
     color: $bright-blue;
   }
 
@@ -37,7 +40,29 @@ footer {
   nav {
     @include grid-column;
   }
+
+  a {
+    line-height: 1;
+    text-decoration: none;
+    display: block;
+    padding-left: .5em !important;
+    padding-top: 3em !important;
+    padding-bottom: 8em !important;
+    color: $bright-blue;
+  }
+
 }
+
+
+.menu a {padding: 0;
+}
+
+
+.icon img:hover {
+    opacity: .5;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
 
 hr {
     display: block;
