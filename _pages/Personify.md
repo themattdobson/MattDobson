@@ -5,7 +5,7 @@ title:  Personify
 date:   2015-01-03 21:21
 ---
 
-Personify is a secure website for Humana associates to document and share user research. The site serves as a secure repository for researchers and stakeholders to have easy access to research data across products.
+Personify is an internal website for Humana associates to document and share user research. The site serves as a secure repository for researchers and stakeholders to have easy access to research data across products.
 
 
 ![](https://d2mxuefqeaa7sj.cloudfront.net/s_FD6842F4CE8795244B10A0212F9EA74998E4DCE8309943041FB97C18468EF0AD_1514849103618_Personify_Laptop_Cropped.png)

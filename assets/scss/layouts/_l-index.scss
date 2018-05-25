@@ -4,6 +4,7 @@
 
 main {
   @include grid-row;
+  background-color:navyblue;
 
   //other elements
   //@include grid-column;
