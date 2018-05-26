@@ -191,13 +191,14 @@ p:last-child {
     line-height: 1.75em;
 
 }
+
 // .intro:first-child {margin-top: 1.5em;}
 
 .intro-button {margin-top: 3em;}
 
 
-.underline { border-bottom: 2px solid $bright-blue !important;
-    background-color: white;
+.underline { border-bottom: 3px solid $bright-blue !important;
+    // background-color: white;
     text-decoration: none;
     color: $dark-gray;
 }
@@ -304,7 +305,26 @@ $news-card-label-background-hover: scale-color($news-card-label-background, $lig
   padding-bottom:2em;
 }
 
+.narrow {
+  width: 100%;
+}
+
 
 .footer-space {
   padding-bottom: 8em;
+}
+
+ul {
+  padding-left: 2em;
+}
+
+li {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: $dark-gray;
+
+
+}
+
+.image-block {
+  margin-top: 3em;
 }
